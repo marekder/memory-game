@@ -69,7 +69,7 @@ btn.addEventListener("click", () => {
       );
 
       if (isWon) {
-        heading.textContent = "Super! Wygrałeś :) ";
+        heading.textContent = "It's a WIN!";
       }
     });
   });
